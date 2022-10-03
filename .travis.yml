@@ -5,8 +5,6 @@ go:
   - "1.14"
   - "1.13"
   - "1.12"
-env:
-  - GO111MODULE=on
 install:
 # v1
   - go get -t .
