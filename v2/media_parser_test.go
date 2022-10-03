@@ -7,7 +7,7 @@ import (
 
 	"io/ioutil"
 
-	"github.com/dsoprea/go-logging"
+	"github.com/dsoprea/go-logging/v2"
 )
 
 func TestNewTiffMediaParser(t *testing.T) {
