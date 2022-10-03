@@ -8,7 +8,7 @@ go 1.12
 
 require (
 	github.com/dsoprea/go-exif/v2 v2.0.0-20200321225314-640175a69fe4 // indirect
-	github.com/dsoprea/go-exif/v3 v3.0.0-20221003143021-0a0262e4b8b6
+	github.com/dsoprea/go-exif/v3 v3.0.0-20221003160559-cf5cd88aa559
 	github.com/dsoprea/go-logging v0.0.0-20200710184922-b02d349568dd
 	github.com/dsoprea/go-utility/v2 v2.0.0-20221003142440-7a1927d49d9d
 	github.com/jessevdk/go-flags v1.5.0
